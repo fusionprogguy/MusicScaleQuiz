@@ -1,0 +1,139 @@
+﻿Scale,Notes
+C Major Scale,C D E F G A B
+G Major Scale,G A B C D E F#
+D Major Scale,D E F# G A B C#
+A Major Scale,A B C# D E F# G#
+E Major Scale,E F# G# A B C# D#
+B Major Scale,B C# D# E F# G# A#
+F# Major Scale,F# G# A# B C# D# E#
+Gb Major Scale,Gb Ab Bb Cb Db Eb F
+Db Major Scale,Db Eb F Gb Ab Bb C
+C# Major Scale,C# D# E# F# G# A# B#
+Ab Major Scale,Ab Bb C Db Eb F G
+Eb Major Scale,Eb F G Ab Bb C D
+Bb Major Scale,Bb C D Eb F G A
+F Major Scale,F G A Bb C D E
+A Lydian,A B C# D# E F# G#
+Ab Lydian,Ab Bb C D Eb F G
+B Lydian,B C# D# E# F# G# A#
+Bb Lydian,Bb C D E F G A
+C Lydian,C D E F# G A B
+D Lydian,D E F# G# A B C#
+Db Lydian,Db Eb F G Ab Bb C
+E Lydian,E F# G# A# B C# D#
+Eb Lydian,Eb F G A Bb C D
+F Lydian,F G A B C D E
+G Lydian,G A B C# D E F#
+Gb Lydian,Gb Ab Bb C Db Eb F
+A Aeolian b5,A B C D Eb F G
+E Aeolian b5,E F# G A Bb C D
+B Aeolian b5,B C# D E F G A
+F# Aeolian b5,F# G# A B C D E
+C# Aeolian b5,C# D# E F# G A B
+G# Aeolian b5,G# A# B C# D E F#
+D# Aeolian b5,D# F Gb G# A B Db
+A# Aeolian b5,A# B# C# D# E F# G#
+F Aeolian b5,F G Ab A# B Db Eb
+C Aeolian b5,C D Eb F Gb Ab Bb
+G Aeolian b5,G A Bb C Db Eb F
+D Aeolian b5,D E F G Ab Bb C
+C Natural Minor Scale,C D Eb F G Ab Bb
+G Natural Minor Scale,G A Bb C D Eb F
+D Natural Minor Scale,D E F G A Bb C
+A Natural Minor Scale,A B C D E F G
+E Natural Minor Scale,E F# G A B C D
+B Natural Minor Scale,B C# D E F# G A
+F# Natural Minor Scale,F# G# A B C# D E
+C# Natural Minor Scale,C# D# E F# G# A B
+G# Natural Minor Scale,G# A# B C# D# E F#
+Eb Natural Minor Scale,Eb F Gb Ab Bb Cb Db
+Bb Natural Minor Scale,Bb C Db Eb F Gb Ab
+F Natural Minor Scale,F G Ab Bb C Db Eb
+A Mixolydian,A B C# D E F# G
+Bb Mixolydian,Bb C D Eb F G Ab
+B Mixolydian,B C# D# E F# G# A
+C Mixolydian,C D E F G A Bb
+Db Mixolydian,Db Eb F Gb Ab Bb C
+D Mixolydian,D E F# G A B C
+E Mixolydian,E F# G# A B C# D
+Eb Mixolydian,Eb F G Ab Bb C Db
+F Mixolydian,F G A Bb C D Eb
+F# Mixolydian,F# G# A# B C# D# E
+G Mixolydian,G A B C D E F
+Ab Mixolydian,Ab Bb C Db Eb F Gb
+G Mixolydian b6,G A B C D Eb F
+D Mixolydian b6,D E F# G A Bb C
+A Mixolydian b6,A B C# D E F G
+E Mixolydian b6,E F# G# A B C D
+B Mixolydian b6,B C# D# E F# G A
+F# Mixolydian b6,F# G# A# B C# D E
+C# Mixolydian b6,C# D# F F# G# A B
+G# Mixolydian b6,G# A# C C# D# E Gb
+D# Mixolydian b6,D# F G G# A# B Db
+Bb Mixolydian b6,Bb C D Eb F Gb Ab
+F Mixolydian b6,F G A Bb C Db Eb
+C Mixolydian b6,C D E F G Ab Bb
+C Major Pentatonic,C D E G A
+G Major Pentatonic,G A B D E
+D Major Pentatonic,D E F# A B
+A Major Pentatonic,A B C# E F#
+E Major Pentatonic,E F# G# B C#
+B Major Pentatonic,B C# D# F# G#
+F# Major Pentatonic,F# G# A# C# D#
+Gb Major Pentatonic,Gb Ab Bb Db Eb
+Db Major Pentatonic,Db Eb F Ab Bb
+C# Major Pentatonic,C# D# E# G# A#
+Ab Major Pentatonic,Ab Bb C Eb F
+Eb Major Pentatonic,Eb F G Bb C
+Bb Major Pentatonic,Bb C D F G
+F Major Pentatonic,F G A C D
+C Minor Pentatonic,C Eb F G Bb
+G Minor Pentatonic,G Bb C D F
+D Minor Pentatonic,D F G A C
+A Minor Pentatonic,A C D E G
+E Minor Pentatonic,E G A B D
+F# Minor Pentatonic,F# A B C# E
+Gb Minor Pentatonic,Gb A B Db E
+Db Minor Pentatonic,Db E Gb Ab B
+C# Minor Pentatonic,C# E F# G# B
+Ab Minor Pentatonic,Ab B Db Eb Gb
+Eb Minor Pentatonic,Eb Gb Ab Bb Db
+Bb Minor Pentatonic,Bb Db Eb F Ab
+F Minor Pentatonic,F Ab Bb C Eb
+C Blues Scale,C Eb F Gb G Bb
+G Blues Scale,G Bb C Db D F
+D Blues Scale,D F G Ab A C
+A Blues Scale,A C D Eb E G
+E Blues Scale,E G A Bb B D
+B Blues Scale,B D E F F# A
+F# Blues Scale,F# A B C C# E
+Gb Blues Scale,Gb A B C Db E
+Db Blues Scale,Db E Gb G Ab B
+Ab Blues Scale,Ab B Db D Eb Gb
+Eb Blues Scale,Eb Gb Ab A Bb Db
+Bb Blues Scale,Bb Db Eb E F Ab
+F Blues Scale,F Ab Bb B C Eb
+C Harmonic Minor,C D Eb F G Ab B
+G Harmonic Minor,G A Bb C D Eb F#
+D Harmonic Minor,D E F G A Bb C#
+A Harmonic Minor,A B C D E F G#
+E Harmonic Minor,E F# G A B C D#
+B Harmonic Minor,B C# D E F# G A#
+F# Harmonic Minor,F# G# A B C# D E#
+C# Harmonic Minor,C# D# E F# G# A B#
+G# Harmonic Minor,G# A# B C# D# E G
+Eb Harmonic Minor,Eb F Gb Ab Bb Cb D
+Bb Harmonic Minor,Bb C Db Eb F Gb A
+F Harmonic Minor,F G Ab Bb C Db E
+C Melodic Minor,C D Eb F G A B
+G Melodic Minor,G A Bb C D E F#
+D Melodic Minor,D E F G A B C#
+A Melodic Minor,A B C D E F# G#
+E Melodic Minor,E F# G A B C# D#
+B Melodic Minor,B C# D E F# G# A#
+F# Melodic Minor,F# G# A B C# D# E#
+C# Melodic Minor,C# D# E F# G# A# B#
+G# Melodic Minor,G# A# B C# D# E# F##
+Eb Melodic Minor,Eb F Gb Ab Bb C D
+Bb Melodic Minor,Bb C Db Eb F G A
+F Melodic Minor,F G Ab Bb C D E
