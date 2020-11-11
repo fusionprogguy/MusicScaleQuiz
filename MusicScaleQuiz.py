@@ -150,7 +150,8 @@ def randomise_scale(practice_scale, show_answer):
     answer = '0'
     for idx, i in enumerate(order):
         if show_answer:
-            print(str(idx + 1) + ')', multiple_choice_scales[i] + ' (' + scale_formula[practice_scale] + '): ' + multiple_choice_notes[i])
+            scale_name = ' '.join(multiple_choice_scales[i].split()[1:])
+            print(str(idx + 1) + ')', multiple_choice_scales[i] + ' (' + scale_formula[scale_name] + '): ' + multiple_choice_notes[i])
         else:
             print(str(idx + 1) + ')', multiple_choice_notes[i])
 
